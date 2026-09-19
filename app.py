@@ -1,4 +1,3 @@
-
 # Autor: Cristian Balsanelli
 # Linguagem: Python
 # Programa que calcula a quantidade de litros de água
