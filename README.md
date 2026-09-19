@@ -55,4 +55,6 @@ Neste projeto foram utilizados conceitos importantes da linguagem:
 - 🔗 Operadores lógicos (`and` e `or`)
 - 🖨️ `print()` — apresentação dos resultados
 
+💻O programa pode rodar no Visual Studeo Code com o python instalado
+
 ---
