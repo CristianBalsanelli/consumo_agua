@@ -3,7 +3,7 @@
 # Programa que calcula a quantidade de litros de água
 
 #entrada de dados
-tipoImovel = input("Insira o tipo de imóvel, digite:rcial, casa ou apartamento: ") #tipo de imóvel digitado pelo usuário
+tipoImovel = input("Insira o tipo de imóvel, digite:comercial, casa ou apartamento: ") #tipo de imóvel digitado pelo usuário
 consumoMensal = float(input("Insira o consumo mensal de água em metros cúbicos: Número decimal "))#consumo mensal digitado pelo usuário
 #processamento e saída de dados
 if tipoImovel == "comercial": # se o tipo de imóvel for comercial, entra neste bloco
